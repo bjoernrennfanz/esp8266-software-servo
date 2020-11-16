@@ -1,0 +1,14 @@
+# Datatypes (KEYWORD1)
+
+SoftwareServo			KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+
+attach                  KEYWORD2
+detach                  KEYWORD2
+write                   KEYWORD2
+writeMicroseconds       KEYWORD2
+read                    KEYWORD2
+readMicroseconds        KEYWORD2
+attached                KEYWORD2
